@@ -4,6 +4,9 @@ module.exports = {
 	async badges(user) {
 		let Flags;
 		let flags;
+		if (!user) {
+			throw new Error('No user is provided.');
+		}
 		if (user.flags === null) {
 			throw new Error('The provided user doesn\'t have any Discord Badge.');
 		} else {
