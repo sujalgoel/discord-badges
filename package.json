@@ -1,0 +1,29 @@
+{
+  "name": "discord-badges",
+  "version": "1.0.3",
+  "description": "A package that returns the badges of a Discord User",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Sujal Goel",
+  "license": "GPL-3.0",
+  "homepage": "https://sujalgoel.ml",
+  "keywords": [
+    "Discord Badges",
+    "Discord",
+    "Badges",
+    "Sujal",
+    "Goel"
+  ],
+  "bugs": {
+    "url": "https://github.com/sujalgoel/discord-badges/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujalgoel/discord-badges.git"
+  },
+  "devDependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
