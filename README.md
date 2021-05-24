@@ -1,8 +1,7 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://cdn.discordapp.com/attachments/787614573833486376/805829376184811580/Discord-Badges.png"> 
- 
+
 # Discord Badges
 
-[![discord](https://img.shields.io/discord/798229059036774481.svg?logo=discord&colorB=7289DA)](https://discord.gg/devs)
 [![npm](https://img.shields.io/npm/v/discord-badges)](https://npmjs.org/discord-badges)
 [![license](https://img.shields.io/github/license/sujalgoel/discord-badges)](https://github.com/sujalgoel/discord-badges/blob/master/LICENSE)
 
@@ -63,8 +62,4 @@ client.login("DISCORD_BOT_TOKEN");
 
 ## **Creators** 💖
 
-- Sujal Goel#0001
-
-## Support
-
-<a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/devs"/></a>
+- Sujal Goel#0302

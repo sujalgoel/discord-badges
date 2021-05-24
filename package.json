@@ -1,6 +1,6 @@
 {
   "name": "discord-badges",
-  "version": "1.1.1",
+  "version": "1.2.3",
   "description": "A package that returns the badges of a Discord User",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "author": "Sujal Goel",
   "license": "GPL-3.0",
-  "homepage": "https://sujalgoel.ml",
+  "homepage": "https://github.com/sujalgoel/discord-badges#readme",
   "keywords": [
     "Discord Badges",
     "Discord",
