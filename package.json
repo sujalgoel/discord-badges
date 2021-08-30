@@ -22,8 +22,5 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sujalgoel/discord-badges.git"
-  },
-  "devDependencies": {
-    "discord.js": "^12.5.1"
   }
 }

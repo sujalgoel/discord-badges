@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://cdn.discordapp.com/attachments/787614573833486376/805829376184811580/Discord-Badges.png"> 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Atlanta" src="https://cdn.discordapp.com/attachments/787614573833486376/805829376184811580/Discord-Badges.png">
 
 # Discord Badges
 
@@ -15,7 +15,7 @@ const badges = require("discord-badges");
 badges
   .badges(user) // Get the user somehow
   .then((response) => {
-      console.log(response); // log the response
+    console.log(response); // log the response
   })
   .catch((e) => {
     console.log(e); // log the error (if any)
@@ -62,4 +62,4 @@ client.login("DISCORD_BOT_TOKEN");
 
 ## **Creators** 💖
 
-- Sujal Goel#0302
+- Sujal Goel#7602
