@@ -1,23 +1,19 @@
 module.exports = {
 	BUGHUNTER_LEVEL_1: {
-		name: 'Discord Bug Hunter level 1',
+		name: 'Discord Bug Hunter',
 		url: 'https://cdn.discordapp.com/emojis/604997907095093248.png?v=1',
 	},
 	BUGHUNTER_LEVEL_2: {
-		name: 'Discord Bug Hunter level 2',
+		name: 'Discord Bug Hunter',
 		url: 'https://cdn.discordapp.com/emojis/657002233556107264.png?v=1',
 	},
 	DISCORD_EMPLOYEE: {
 		name: 'Discord Staff',
-		url: 'https://cdn.discordapp.com/emojis/604997907397214208.png?v=1',
+		url: 'https://cdn.discordapp.com/emojis/843414316202983435.png?v=1',
 	},
 	DISCORD_NITRO: {
 		name: 'Discord Nitro',
 		url: 'https://cdn.discordapp.com/emojis/314068430611415041.png?v=1',
-	},
-	DISCORD_PARTNER: {
-		name: 'Discord Partner',
-		url: 'https://cdn.discordapp.com/emojis/728201573527978036.png?v=1',
 	},
 	EARLY_SUPPORTER: {
 		name: 'Early Supporter',
@@ -43,4 +39,12 @@ module.exports = {
 		name: 'Early Verified Bot Developer',
 		url: 'https://cdn.discordapp.com/emojis/720584852063387719.png?v=1',
 	},
+	PARTNERED_SERVER_OWNER: {
+		name: 'Partnered Server Owner',
+		url: 'https://cdn.discordapp.com/emojis/843414316509954059.png?v=1',
+	},
+	DISCORD_CERTIFIED_MODERATOR: {
+		name: 'Discord Certified Moderator',
+		url: 'https://cdn.discordapp.com/emojis/848270498747645972.png?v=1',
+	}
 };
