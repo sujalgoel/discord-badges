@@ -1,6 +1,6 @@
 {
   "name": "discord-badges",
-  "version": "1.2.3",
+  "version": "0.0.0",
   "description": "A package that returns the badges of a Discord User",
   "main": "src/index.js",
   "scripts": {
