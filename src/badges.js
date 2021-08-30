@@ -39,8 +39,8 @@ module.exports = {
 		name: 'HypeSquad Events',
 		url: 'https://cdn.discordapp.com/emojis/604997907053281300.png?v=1',
 	},
-	VERIFIED_DEVELOPER: {
-		name: 'Verified Bot Developer',
+	EARLY_VERIFIED_BOT_DEVELOPER: {
+		name: 'Early Verified bot developer',
 		url: 'https://cdn.discordapp.com/emojis/720584852063387719.png?v=1',
 	},
 };
