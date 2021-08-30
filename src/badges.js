@@ -40,7 +40,7 @@ module.exports = {
 		url: 'https://cdn.discordapp.com/emojis/604997907053281300.png?v=1',
 	},
 	EARLY_VERIFIED_BOT_DEVELOPER: {
-		name: 'Early Verified bot developer',
+		name: 'Early Verified Bot Developer',
 		url: 'https://cdn.discordapp.com/emojis/720584852063387719.png?v=1',
 	},
 };
