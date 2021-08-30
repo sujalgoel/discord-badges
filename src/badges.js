@@ -1,10 +1,10 @@
 module.exports = {
 	BUGHUNTER_LEVEL_1: {
-		name: 'Discord Bug Hunter',
+		name: 'Discord Bug Hunter level 1',
 		url: 'https://cdn.discordapp.com/emojis/604997907095093248.png?v=1',
 	},
 	BUGHUNTER_LEVEL_2: {
-		name: 'Discord Bug Hunter',
+		name: 'Discord Bug Hunter level 2',
 		url: 'https://cdn.discordapp.com/emojis/657002233556107264.png?v=1',
 	},
 	DISCORD_EMPLOYEE: {
